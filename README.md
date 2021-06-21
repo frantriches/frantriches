@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![frantriches's github stats](https://github-readme-stats.vercel.app/api?username=frantriches&show_icons=true&custom_title=Francieli's%20Github%20stats)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=frantriches)
 <!--
 **frantriches/frantriches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
